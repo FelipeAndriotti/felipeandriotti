@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=felipeandriotti&color=lightgrey&style=flat-square)
 <a class="icon-instagram social-button grey" href="http://instagram.com/username"></a>
 
-I am a Software Analysis and Development student at FIAP, I am in the last semester, I take several complementary courses, both at Alura, FIAP, among other teaching platforms. I don't plan to stop my studies any time soon. I am a Full Stack development trainee at a Fintech company in the payment technology area, called PagBrasil.
+I am a Software Analysis and Development student at FIAP, I am in the last semester, I take several complementary courses, both at Alura, FIAP, among other teaching platforms. I don't plan to stop my studies any time soon. I am a Full Stack development intern at a Fintech company in the payment technology area, called PagBrasil.
 
 Thinking of optimizing your time, here is a brief description:
 
