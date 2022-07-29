@@ -2,6 +2,18 @@
 ![](https://komarev.com/ghpvc/?username=felipeandriotti&color=lightgrey&style=flat-square)
 <a class="icon-instagram social-button grey" href="http://instagram.com/username"></a>
 
+I am a Software Analysis and Development student at FIAP, I am in the last semester, I take several complementary courses, both at Alura, FIAP, among other teaching platforms. I don't plan to stop my studies any time soon. I am a Full Stack development trainee at a Fintech company in the payment technology area, called PagBrasil.
 
+Thinking of optimizing your time, here is a brief description:
+
+- Fluency in the English language;
+- Knowledge in languages such as: Python, JavaScript, HTML and CSS;
+- Knowledge in Vue.JS framework;
+- Oracle database knowledge;
+- Knowledge in cybersecurity and computer networks;
+- Knowledge in agile methodologies, mainly SCRUM;
+
+Any questions I am at your disposal,
+felipeaandriotti@gmail.com
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161244826&count=1)
