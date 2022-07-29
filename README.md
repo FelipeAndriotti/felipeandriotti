@@ -6,14 +6,17 @@ I am a Software Analysis and Development student at FIAP, I am in the last semes
 
 Thinking of optimizing your time, here is a brief description:
 
-- Fluency in the English language;
-- Knowledge in languages such as: Python, JavaScript, HTML and CSS;
-- Knowledge in Vue.JS framework;
-- Oracle database knowledge;
-- Knowledge in cybersecurity and computer networks;
-- Knowledge in agile methodologies, mainly SCRUM;
+
+- <b> Fluency in the English language;  </b>
+- <b> Knowledge in languages such as: Python, JavaScript, HTML and CSS; </b>
+- <b> Knowledge in Vue.JS framework; </b>
+- <b> Oracle database knowledge; </b>
+- <b> Knowledge in cybersecurity and computer networks; </b>
+- <b> Knowledge in agile methodologies, mainly SCRUM; </b>
+
+
 
 Any questions I am at your disposal,
-felipeaandriotti@gmail.com
+<b> felipeaandriotti@gmail.com </b>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161244826&count=1)
