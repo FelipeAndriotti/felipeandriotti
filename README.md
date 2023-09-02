@@ -2,21 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=felipeandriotti&color=lightgrey&style=flat-square)
 <a class="icon-instagram social-button grey" href="http://instagram.com/username"></a>
 
-I have a bachelor's degree in Software Analysis and Development at FIAP. I take several complementary courses, both at Alura, FIAP, among other teaching platforms. I don't plan to stop my studies any time soon. I am a Full Stack development intern at a Fintech company in the payment technology area, called PagBrasil.
+Hello and welcome to my profile!
 
-Thinking of optimizing your time, here is a brief description:
+I am a developer, graduated in Systems Analysis and Development from FIAP, currently pursuing a postgraduate degree in Software Development with Agile Methodology at Uniritter, with a continuous passion for learning. I have lived and studied in the United States for approximately two and a half years, which has given me a high level of fluency in English.
 
-
-- <b> Fluency in the English language;  </b>
-- <b> Knowledge in languages such as: PHP, Python, JavaScript, HTML and CSS; </b>
-- <b> Knowledge in Vue.JS framework; </b>
-- <b> Oracle database knowledge; </b>
-- <b> Knowledge in cybersecurity and computer networks; </b>
-- <b> Knowledge in agile methodologies, mainly SCRUM; </b>
-
+My knowledge includes various programming languages such as <b>PHP</b>, <b>Python</b>, <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b>, as well as frameworks like <b>Vue.JS</b> and <b>Laravel</b>. Additionally, I have experience in Oracle databases and knowledge in cybersecurity and computer networks.
 
 
 Any questions I am at your disposal,
-<b> felipeaandriotti@gmail.com </b>
+<b> felipe@andriotti.dev </b>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161244826&count=1)
